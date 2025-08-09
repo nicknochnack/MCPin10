@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+stock_server.log
+ticker_db/** 
